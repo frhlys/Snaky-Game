@@ -30,7 +30,7 @@
 </head>
 <body>
 
-    <h2>Snake Game</h2>
+    <h2>Snaky Game</h2>
 
     <div class="controls">
         <label for="difficulty">Difficulty:</label>
@@ -57,7 +57,8 @@
         let food;
         let dir;
         let game;
-        let speed = 150; // default medium
+        let speed = 100; 
+        
 
         document.addEventListener("keydown", direction);
 
