@@ -50,7 +50,7 @@
   <!-- Sidebar -->
   <aside id="sidebar" class="fixed top-0 left-0 w-64 h-full bg-gray-900 text-white transform -translate-x-full md:translate-x-0 transition-transform duration-300 z-40">
     <div class="p-6">
-      <h2 class="text-2xl font-bold mb-6">Game Menu</h2>
+      <h2 class="text-2xl font-bold mb-6">Game Menu dvd</h2>
       <ul class="space-y-4">
         <li><a href="#" class="block hover:text-green-400 transition">🏡 Home</a></li>
         <li><a href="#difficulty" class="block hover:text-green-400 transition">💣 Difficulty</a></li>
